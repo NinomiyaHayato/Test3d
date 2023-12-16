@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 61137ab030f57504480a53211ab5db86, type: 3}
+  m_Name: BulletFactory
+  m_EditorClassIdentifier: 
+  _normalBullet: {fileID: 6969851836810272127, guid: 75257aa7b15e8404189f5255bc7f892c, type: 3}
+  _specialBullet: {fileID: 5587892792585043956, guid: 37f7161474f0d5942ab43018817a0b93, type: 3}
+  _ricochetBullet: {fileID: 8698130896477534723, guid: 443230016ec4333438a9c20fd1be0a05, type: 3}
